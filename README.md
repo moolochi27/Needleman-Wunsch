@@ -11,3 +11,6 @@ This code will fail if there exist no similarities between the two sequences.
 May change later to be optimized for larger datasets by only generating matrix values within k distance from the diagonal.
 
 Might add some basic machine learning to find an optimal "kstart" and "kmax" 
+
+
+March 14, 2023 (Pi day!)- Totally did not completely forget that this existed.
